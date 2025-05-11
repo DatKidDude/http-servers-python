@@ -67,3 +67,5 @@ env3
 
 # OS generated files
 .DS_Store
+
+test.py
